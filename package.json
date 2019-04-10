@@ -1,0 +1,8 @@
+{
+  "name": "addon",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "My reusable C++ addon",
+  "gypfile": true,
+  "main": "./build/Release/addon"
+}
